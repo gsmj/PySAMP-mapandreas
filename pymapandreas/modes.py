@@ -1,6 +1,3 @@
-from dataclasses import dataclass
-
-@dataclass
 class MapAndreasMode:
     MAP_ANDREAS_MODE_NONE: int = 0
     MAP_ANDREAS_MODE_MINIMAL: int = 1
